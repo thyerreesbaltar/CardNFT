@@ -107,7 +107,7 @@ main{
     opacity: 0.3; 
 }
 .viewImg:hover{
-    background: url('/assets/icon-view.svg') no-repeat center hsl(178, 100%, 50%);
+    background: url('./assets/icon-view.svg') no-repeat center hsl(178, 100%, 50%);
 }
 
 @media (max-width: 375px) {
